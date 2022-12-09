@@ -1,2 +1,1 @@
-# rsschool-cv
-first task =)
+https://Talgatwaterfall.github.io/rsschool-cv/cv
