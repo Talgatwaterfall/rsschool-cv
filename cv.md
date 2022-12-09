@@ -1,11 +1,11 @@
 ## Talgat Ibkenov
 
-#My contacts:
-    * tau.kam@gmail.com
-    * +7100-12-99-99
-    * Almaty city
+# * My contacts:
+    + tau.kam@gmail.com
+    + +7100-12-99-99
+    + Almaty city
 
-#Work experience:
+# Work experience:
     *DB Sberbank 2010-2019
     *Telecom 2019-2022
 
@@ -14,5 +14,8 @@ Education:
 American Dubai University 2010-2014
 ```
 
-#Language:
+# Language:
 English level - A1
+
+> About myself:
+responsible, hard working, like skiing
