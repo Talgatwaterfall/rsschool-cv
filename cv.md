@@ -16,11 +16,11 @@
     * online course in RS School (currently)
 
 # Code Example:
-'''
+```
 function multiply(a, b){
   a * b
 }
-'''
+```
 
 # Language:
 English level - A1
