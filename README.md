@@ -1,1 +1,1 @@
-https://Talgatwaterfall.github.io/rsschool-cv/cv
+https://Talgatwaterfall.github.io/rsschool-cv/
